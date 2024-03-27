@@ -1,3 +1,7 @@
+# User added files
+ignore_src
+ignore_tests
+
 ### VisualStudioCode template
 .vscode/*
 !.vscode/settings.json

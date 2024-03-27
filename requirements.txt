@@ -1,13 +1,13 @@
 # For Flask apps
-Flask
-Flask-SQLAlchemy
-Flask-Marshmallow
-Marshmallow-SQLAlchemy
-jwt
-flask-wtf
-wtforms-sqlalchemy
+#Flask
+#Flask-SQLAlchemy
+#Flask-Marshmallow
+#Marshmallow-SQLAlchemy
+#jwt
+#flask-wtf
+#tforms-sqlalchemy
 # To get a prediction in the Iris app
-scikit-learn
+#scikit-learn
 # For Dash apps
 dash
 dash-bootstrap-components
